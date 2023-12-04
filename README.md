@@ -1,8 +1,10 @@
 The maze generation program utilises a 2D array and my implementation of a recursive random direction maze path generator to build a maze. This process can be seen as the maze is generated in green.
 
-![](https://github.com/20tsange1/publicWork/blob/main/mazeGenerated.png)
+
 
 The robot then attempts to solve the maze using the right hand to the wall rule.
+
+![](https://github.com/20tsange1/publicWork/blob/main/mazeGenerate.gif)
 
 When complete, the program will then print out the solution (shortest) path for the maze in red.
 
